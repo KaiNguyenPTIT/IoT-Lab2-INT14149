@@ -1,8 +1,8 @@
 # 📡 BÀI THỰC HÀNH SỐ 2: THU THẬP, LƯU TRỮ VÀ TIỀN XỬ LÝ DỮ LIỆU IoT
 
 > **Học phần:** IoT và Ứng dụng (INT14149)  
-> **Sinh viên thực hiện:** [Điền họ và tên]  
-> **Mã sinh viên:** [Điền MSV] - **Lớp:** [Điền lớp]  
+> **Sinh viên thực hiện:** Nguyễn Đình Khải 
+> **Mã sinh viên:** B23DCCN420
 
 ---
 
@@ -116,4 +116,3 @@ Mở trình duyệt truy cập: **`http://localhost:5000`** để theo dõi bi�
    - **MinMaxScaler:** Co dãn miền giá trị về thang $[0, 1]$.
 ```
 
----
